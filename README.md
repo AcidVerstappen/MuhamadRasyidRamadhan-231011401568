@@ -35,7 +35,3 @@ Aplikasi ini bergerak pada bidang manajemen toko bangunan, khususnya pengelolaan
 2. Sesuaikan konfigurasi koneksi database pada file `Koneksi.java`.
 3. Buka project menggunakan NetBeans.
 4. Jalankan aplikasi.
-
-## Screenshot Aplikasi
-
-Tambahkan screenshot tampilan aplikasi di bagian ini.
